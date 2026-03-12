@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Urgent Air Care | HVAC Contractor Davie FL</title>
+
+<meta name="description" content="Urgent Air Care provides AC repair service, air conditioner installation service, HVAC contractor services, heating system installation and commercial AC services in Davie FL.">
+
+<style>
+
+body{
+font-family:Arial;
+margin:0;
+line-height:1.6;
+background:#f4f4f4;
+}
+
+header{
+background:#0d6efd;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:0 10px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.hero{
+background:url('https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc') center/cover;
+color:white;
+padding:120px 20px;
+text-align:center;
+}
+
+.btn{
+background:#ff6600;
+color:white;
+padding:12px 18px;
+border-radius:5px;
+text-decoration:none;
+margin:5px;
+display:inline-block;
+}
+
+.container{
+max-width:1100px;
+margin:auto;
+padding:40px 20px;
+background:white;
+}
+
+.services{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:20px;
+}
+
+.card{
+border:1px solid #ddd;
+border-radius:8px;
+overflow:hidden;
+}
+
+.card img{
+width:100%;
+height:180px;
+object-fit:cover;
+}
+
+.card h3{
+padding:10px;
+}
+
+.card p{
+padding:0 10px 10px 10px;
+}
+
+footer{
+background:#222;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+
+<h1>Urgent Air Care</h1>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#services">Services</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</nav>
+
+</header>
+
+<section class="hero" id="home">
+
+<h2>Professional HVAC Contractor in Davie, FL</h2>
+
+<p>
+Air Conditioning Contractor providing AC Repair Service, HVAC Installation, Heating System Installation and Commercial HVAC Services.
+</p>
+
+<a class="btn" href="tel:+17869096983">Call Now</a>
+
+<a class="btn" href="https://urgentaircare.com/">Visit Website</a>
+
+<a class="btn" href="https://g.page/r/CZXAbBtLjl_GEBM/">Google Reviews</a>
+
+</section>
+
+<section class="container" id="services">
+
+<h2>Our HVAC Services</h2>
+
+<div class="services">
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1581578731548-c64695cc6952">
+<h3>AC Installation</h3>
+<p>Affordable air conditioner installation service for homes and businesses.</p>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1603796846097-bee99e4a601f">
+<h3>AC Repair Service</h3>
+<p>Emergency AC repair service, AC gas refill service and AC fixing services.</p>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1621905252507-b35492cc74b4">
+<h3>HVAC Maintenance</h3>
+<p>Home air conditioner maintenance service and seasonal HVAC maintenance.</p>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1503387762-592deb58ef4e">
+<h3>Heating Services</h3>
+<p>Heating system installation, heating system maintenance and furnace repair.</p>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1581093458791-9d15482442f9">
+<h3>Duct Installation</h3>
+<p>Duct installation services and ducts & vents replacement.</p>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1558611848-73f7eb4001ab">
+<h3>Commercial HVAC</h3>
+<p>Commercial AC contractor providing installation, repair and maintenance.</p>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1603791440384-56cd371ee9a7">
+<h3>Refrigeration Systems</h3>
+<p>Commercial refrigeration system repair or service and installation.</p>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1593941707882-a5bba53b33d9">
+<h3>Ductless Mini Split AC</h3>
+<p>Split AC installation service and ductless mini split system installation.</p>
+</div>
+
+</div>
+
+</section>
+
+<section class="container" id="about">
+
+<h2>About Urgent Air Care</h2>
+
+<p>
+
+Urgent Air Care is a trusted HVAC contractor serving Davie Florida. We specialize in residential AC services, commercial AC contractor solutions, air conditioner installation service and HVAC repair services.
+
+</p>
+
+<p>
+
+Our experienced HVAC specialists provide emergency AC repair service, seasonal maintenance, heating system installation and commercial HVAC services.
+
+</p>
+
+<p>
+
+Whether you need AC repair, duct installation near me, heating cooling near me, or appliance repair service, our technicians deliver fast and affordable solutions.
+
+</p>
+
+</section>
+
+<section class="container" id="contact">
+
+<h2>Contact Urgent Air Care</h2>
+
+<p>
+Address: 1965 SW 86th Ave Davie, FL 33324
+</p>
+
+<p>
+Phone: <a href="tel:+17869096983">(786) 909-6983</a>
+</p>
+
+<a class="btn" href="tel:+17869096983">Call Now</a>
+
+<a class="btn" href="https://urgentaircare.com/">Visit Website</a>
+
+<a class="btn" href="https://g.page/r/CZXAbBtLjl_GEBM/">Google Business Profile</a>
+
+<h3>Service Area Map</h3>
+
+<iframe
+src="https://maps.google.com/maps?q=1965%20SW%2086th%20Ave%20Davie%20FL&t=&z=13&ie=UTF8&iwloc=&output=embed"
+width="100%"
+height="350">
+</iframe>
+
+</section>
+
+<section class="container">
+
+<h2>Privacy Policy</h2>
+
+<p>
+
+Urgent Air Care respects your privacy. Any information collected through this website is used solely for providing HVAC services and responding to service inquiries.
+
+</p>
+
+<h2>Terms & Conditions</h2>
+
+<p>
+
+By using this website you agree to the terms of use. Service availability, pricing and scheduling may vary. Urgent Air Care reserves the right to update or modify website content.
+
+</p>
+
+</section>
+
+<footer>
+
+<p>Urgent Air Care</p>
+
+<p>Air Conditioning Contractor | HVAC Contractor | AC Repair Service</p>
+
+<p>Davie, Florida</p>
+
+<p>
+
+<a style="color:white" href="tel:+17869096983">Call (786) 909-6983</a>
+
+</p>
+
+</footer>
+
+</body>
+</html>
